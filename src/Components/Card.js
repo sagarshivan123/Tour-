@@ -14,7 +14,7 @@ function readmoreHandler(){
 
 
 <div className="card">
-<img src={image} alt={image.name} className="image"></img>
+<img src={image} alt={name} className="image"></img>
 
 <div className="tour-info">
 <div className="tour-details">
